@@ -2,7 +2,7 @@
 
 Dataset - * [UCI's Breast Cancer Wisconsin Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
 
-###Attribute Information:
+### Attribute Information:
 
 1) ID number 
 
@@ -31,4 +31,7 @@ h) concave points (number of concave portions of the contour)
 i) symmetry 
 
 j) fractal dimension ("coastline approximation" - 1)
+
+
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
